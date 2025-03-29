@@ -1,0 +1,4 @@
+[core]
+    remote = myroute
+['remote "myroute"']
+    url = C:\Users\Yogesh\AppData\Local\Temp\dvc-demo
